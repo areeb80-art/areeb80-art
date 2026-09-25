@@ -1,5 +1,9 @@
-## Hi there 👋
-
+## Hi, I am Areeb Mustafa Faisal, a freshman at Bilkent University. 👋
+# About Me
+- I am a computer engineering student at Bilkent University.
+- I am an international student from Pakistan.
+- I am interested in programming and data analytics.
+- 
 <!--
 **areeb80-art/areeb80-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
